@@ -1,5 +1,5 @@
 # Clicker Legends pygame
-A fan-made clicker game based on League of Legends and it is made with the Python module, Pygame
+A fan-made clicker game based on League of Legends and it is made with the Python module, Pygame  
   Clicker Legends was created under Riot Games' "Legal Jibber Jabber" policy using assets owned by Riot Games.  Riot Games does not endorse or sponsor this project.
 
 # INSTALLATION
