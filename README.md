@@ -6,7 +6,7 @@ To install, open the msi installer, and when the Windows protected your PC windo
   
 When the installer window opens, press "Next".  
   
-The installer will install the game by default to the program files folder and will make a shortcut in the Desktop and Start Menu.  
+The installer will install the game by default to the program files folder and will make a shortcut (Only in Version 1.2+) in the Desktop and Start Menu.  
   
 Start the game from either of these shortcuts
 # Uninstallation
