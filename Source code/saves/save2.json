@@ -1,7 +1,7 @@
 {
-    "started": 1,
-    "lp": 6.75,
-    "money": 4.5,
+    "started": 0,
+    "lp": 0,
+    "money": 0,
     "rank": 0,
     "user_upgrade1": 0,
     "user_upgrade2": 0,
@@ -9,5 +9,5 @@
     "pc_upgrade1": 0,
     "pc_upgrade2": 0,
     "pc_upgrade3": 0,
-    "region": 5
+    "region": 0
 }
